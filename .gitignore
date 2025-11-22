@@ -1,0 +1,32 @@
+# Python & envs
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# virtualenv and dependency folders
+site-packages/
+venv/
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# build artifacts
+dist/
+build/
+*.egg-info/
+
+# logs
+*.log
+
+# secret files
+.env
+.env.local

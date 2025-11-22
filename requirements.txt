@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+numpy==1.26.4
+pandas
+openpyxl
+scikit-learn
+nltk
+language-tool-python
+vaderSentiment
+regex
+requests
+fastembed==0.1.1
+python-dotenv
