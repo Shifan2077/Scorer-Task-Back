@@ -1,7 +1,6 @@
 fastapi
 uvicorn[standard]
 pydantic
-numpy==1.26.4
 pandas
 openpyxl
 scikit-learn
@@ -10,5 +9,6 @@ language-tool-python
 vaderSentiment
 regex
 requests
-fastembed==0.7.3
+numpy
+fastembed
 python-dotenv
