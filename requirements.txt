@@ -10,5 +10,5 @@ language-tool-python
 vaderSentiment
 regex
 requests
-fastembed==0.1.1
+fastembed==0.7.3
 python-dotenv
